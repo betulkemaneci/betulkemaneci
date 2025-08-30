@@ -1,49 +1,42 @@
- # Merhaba, ben Betül Kemaneci
+# 👋 Merhaba, ben Betül Kemaneci  
 
-🎓 Fırat Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim.  
-💻 Python ve siber güvenlik alanlarında kendimi geliştirmeye devam ediyorum. Java ve C# programlama dillerinde deneyim sahibiyim.  
-🎨 Aynı zamanda çizim ve tasarım alanlarına ilgi duyuyorum; özellikle oyun içi karakter ve model tasarımı üzerine çalışıyorum.
-
----
-
-## Hedeflerim
-
-- Full-stack developer olarak profesyonel kariyer yapmak  
-- Siber güvenlik alanında uzmanlaşmak  
-- Oyun tasarımı ve dijital sanat alanlarında yeteneklerimi geliştirmek  
+🎓 Bilgisayar Mühendisliği 4. sınıf öğrencisi — Fırat Üniversitesi  
+💡 Yazılım geliştirme alanında kendimi sürekli geliştirmeye devam ediyorum.  
 
 ---
 
-## Teknik Yetenekler
-
-| Programlama Dilleri | Araçlar ve Teknolojiler       |
-| ------------------- | ----------------------------- |
-| Python              | Git & GitHub                  |
-| Java                | Unity                        |
-| C#                  | Blender                      |
-|                     | Adobe Photoshop / Krita       |
-|                     | Siber Güvenlik Temelleri      |
+## 🛠 Staj Deneyimlerim
+- **BTK Akademi** — Stajyer (Yazılım)  
+- **Güncel Yazılım** — Stajyer  
 
 ---
 
-## Eğitim ve Sertifikalar
+## 📂 Projelerim  
 
-- BTK Akademi — Python, Git ve Siber Güvenlik eğitimleri  
-- Üniversite projeleri ve kişisel uygulamalar  
-
----
-
-## İletişim
-
-[LinkedIn](https://www.linkedin.com/in/bet%C3%BCl-k-bb5b1727a/) | [E-posta](betul3140@gmail.com)
+### 🍽 [BTK Restaurant App](https://github.com/betulkemaneci/BTK_Restaurant_APP)  
+Restoranlar için masa rezervasyonu ve menü yönetimi özellikleri içeren bir web uygulaması.  
 
 ---
 
-## Güncel Projeler
-
-*BTK Akademi eğitimleri ve staj sürecinde geliştireceğim projeler yakında burada yer alacak.*
+## 🔧 Bildiğim Teknolojiler  
+- **Frontend:** React.js, JavaScript, HTML5, CSS3, Tailwind CSS, Bootstrap  
+- **Backend (Temel):** Node.js, Express.js  
+- **Database:** SQL, Firebase, MongoDB (temel)  
+- **Araçlar:** Git, GitHub, VS Code  
 
 ---
 
-✨ Sürekli öğreniyorum ve yeni teknolojilerle kendimi geliştirmeye açığım. İş birliği ve projeler için çekinmeden iletişime geçebilirsiniz!  
+## 📊 GitHub İstatistiklerim  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=betulkemaneci&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=betulkemaneci&layout=compact&theme=radical" height="150" />
+</p>
 
+---
+
+## 🌐 Bana Ulaşın  
+- 💼 [LinkedIn Profilim](https://www.linkedin.com/in/betül-k-bb5b1727a?utm_source=share_via&utm_content=profile&utm_medium=member_android)  
+- 📧 **betul3140@gmail.com**  
+
+---
+✨ *“Öğrenmeye ve üretmeye devam ediyorum.”*
