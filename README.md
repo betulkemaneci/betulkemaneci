@@ -6,8 +6,8 @@
 ---
 
 ## 🛠 Staj Deneyimlerim
-- **BTK Akademi** — Stajyer (Yazılım)  
-- **Güncel Yazılım** — Stajyer  
+- **BTK Akademi** 
+- **Güncel Yazılım** 
 
 ---
 
